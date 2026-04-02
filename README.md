@@ -2,6 +2,7 @@
 <img src="images/genai.png" alt="GenAI Badge" width="100">
 
 ## 📢 About GenAI Foundry
+test
 
 This repository was created to make the world of Generative AI **accessible, simple, and hands-on**.
 
